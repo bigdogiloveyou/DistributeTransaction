@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.xushu.dt.client.spring.DistributedTransactionConfiguration
