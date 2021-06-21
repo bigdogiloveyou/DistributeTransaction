@@ -1,1 +1,1 @@
-dtActionFilter=cn.blogxin.dt.dubbo.annotation.ActionFilter
+dtActionFilter=com.xushu.dt.dubbo.annotation.ActionFilter

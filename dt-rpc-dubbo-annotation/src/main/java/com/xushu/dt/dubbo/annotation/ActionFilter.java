@@ -20,6 +20,8 @@ import java.lang.reflect.Method;
 import java.util.Date;
 
 /**
+ * 这个过滤器是调用方会调用，即事务发起方（开启主事务的那方）
+ *
  * @author xushu
  */
 @Slf4j

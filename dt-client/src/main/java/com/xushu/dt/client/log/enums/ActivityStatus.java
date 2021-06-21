@@ -16,7 +16,7 @@ public enum ActivityStatus {
     COMMIT(1),
 
     /**
-     * 主事务提交，分支事务全部执行完成
+     * 主事务提交，分支事务全部执行完成（是先提交分支事务，再提交主事务，能到这个状态说明都成功了）
      */
     COMMIT_FINISH(2),
 

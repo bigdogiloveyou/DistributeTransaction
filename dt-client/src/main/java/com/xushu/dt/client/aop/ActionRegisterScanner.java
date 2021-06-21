@@ -1,8 +1,8 @@
-//package cn.blogxin.dt.client.aop;
+//package com.xushu.dt.client.aop;
 //
-//import cn.blogxin.dt.client.annotation.TwoPhaseCommit;
-//import cn.blogxin.dt.client.rm.ActionResource;
-//import cn.blogxin.dt.client.rm.ResourceManager;
+//import com.xushu.dt.client.annotation.TwoPhaseCommit;
+//import com.xushu.dt.client.rm.ActionResource;
+//import com.xushu.dt.client.rm.ResourceManager;
 //import lombok.extern.slf4j.Slf4j;
 //import org.springframework.beans.BeansException;
 //import org.springframework.beans.factory.config.BeanPostProcessor;

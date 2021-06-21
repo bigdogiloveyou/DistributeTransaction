@@ -1,11 +1,11 @@
-//package cn.blogxin.dt.client.aop;
+//package com.xushu.dt.client.aop;
 //
-//import cn.blogxin.dt.client.annotation.TwoPhaseCommit;
-//import cn.blogxin.dt.client.context.DTContext;
-//import cn.blogxin.dt.client.context.DTContextEnum;
-//import cn.blogxin.dt.client.log.entity.Action;
-//import cn.blogxin.dt.client.log.enums.ActionStatus;
-//import cn.blogxin.dt.client.rm.ResourceManager;
+//import com.xushu.dt.client.annotation.TwoPhaseCommit;
+//import com.xushu.dt.client.context.DTContext;
+//import com.xushu.dt.client.context.DTContextEnum;
+//import com.xushu.dt.client.log.entity.Action;
+//import com.xushu.dt.client.log.enums.ActionStatus;
+//import com.xushu.dt.client.rm.ResourceManager;
 //import org.aopalliance.intercept.MethodInterceptor;
 //import org.aopalliance.intercept.MethodInvocation;
 //

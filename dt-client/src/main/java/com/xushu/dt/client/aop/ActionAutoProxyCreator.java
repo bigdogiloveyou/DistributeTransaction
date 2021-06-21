@@ -1,6 +1,6 @@
-//package cn.blogxin.dt.client.aop;
+//package com.xushu.dt.client.aop;
 //
-//import cn.blogxin.dt.client.annotation.TwoPhaseCommit;
+//import com.xushu.dt.client.annotation.TwoPhaseCommit;
 //import org.springframework.aop.TargetSource;
 //import org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator;
 //import org.springframework.beans.BeansException;

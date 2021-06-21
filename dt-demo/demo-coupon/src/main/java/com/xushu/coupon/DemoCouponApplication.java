@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author xin
  */
 @SpringBootApplication
-@MapperScan("cn.blogxin.coupon.mapper")
+@MapperScan("com.xushu.coupon.mapper")
 public class DemoCouponApplication {
 
     public static void main(String[] args) {

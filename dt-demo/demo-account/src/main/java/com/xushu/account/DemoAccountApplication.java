@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author xin
  */
 @SpringBootApplication
-@MapperScan("cn.blogxin.account.mapper")
+@MapperScan("com.xushu.account.mapper")
 public class DemoAccountApplication {
 
     public static void main(String[] args) {
